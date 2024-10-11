@@ -1,0 +1,3 @@
+Serial Number,Product Name,Input Image Urls,Output Image Urls
+1,SKU1,"https://picsum.photos/200,https://picsum.photos/200/300","https://res.cloudinary.com/dszqejboo/image/upload/v1728654189/processed/1/1_2.jpg,https://res.cloudinary.com/dszqejboo/image/upload/v1728654189/processed/1/1_1.jpg"
+2,SKU2,"https://picsum.photos/200/300,https://picsum.photos/200","https://res.cloudinary.com/dszqejboo/image/upload/v1728654191/processed/2/2_1.jpg,https://res.cloudinary.com/dszqejboo/image/upload/v1728654191/processed/2/2_2.jpg"
