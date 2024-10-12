@@ -71,3 +71,13 @@ Start Celery Worker (In another terminal)
 ```bash
   celery -A app.tasks worker --loglevel=info -P solo
 ```
+## Deployment
+
+Live Link : https://csv-parser-celery-worker.onrender.com
+
+Upload Route : https://csv-parser-celery-worker.onrender.com/upload_csv
+
+Status Route : https://csv-parser-celery-worker.onrender.com/status/<request_id>
+
+### Note : 
+The deployment is done on free tier of various services and therefore the api can be slow and might run out of credits. Running the code locally is recommeded for thorough testing.
